@@ -79,13 +79,7 @@ Once the communities were established, we computed various graph statistics to g
 
 Finally, we turned our attention to the top-performing actors—those with scores greater than 7. We identified these high-scoring actors, highlighted them in the graph, and examined which communities they belonged to. This final step provided valuable insights into how collaboration networks might contribute to an actor’s success and which clusters were particularly impactful in fostering such success.
 
-## Organization within the Team
-
-- **Ali** : Webscrapping to incorporate new features, GMM clustering techniques, MLP deep learning techniques.
-- **Lylia** : Regressions, network analysis and Data Story.
-- **Zaynab** : Clustering using K-means and K-modes, Combinations, Data Story.
-- **Yassin** : Structuring the datset (webscrapping, hotencoding), Network analysis.
-- **Christian** : Website layout, structuring the datset.
-
 ## Limits
 - **Physical features** : We have done an analysis to identify the physical attributes that would propel an actor to the top of the rankings. To do so, we used celebA dataset, however it had attributes for only 4% of our data. Thus, we did a subset analysis but we know that this doesn't represent the result we could have obtained with a larger dataset.
+
+  PS : Data is too big to be uploaded on git
